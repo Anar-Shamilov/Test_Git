@@ -1,0 +1,3 @@
+#! /usr/bin/env bash
+read -p "Salam Şahin:>" IP
+echo $IP
